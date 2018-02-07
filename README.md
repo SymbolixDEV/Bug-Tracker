@@ -1,2 +1,2 @@
 # Bug-Tracker
-Bug Tracker for http://109.120.212.162
+Bug Tracker for http://war-squad.tk
